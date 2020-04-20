@@ -1,0 +1,17 @@
+{
+  "name": "@elex/loggings",
+  "version": "0.0.2",
+  "description": "Loggings",
+  "main": "loggings.js",
+  "scripts": {
+    "test": "node loggings-test.js"
+  },
+  "keywords": [
+    "loggings"
+  ],
+  "author": "Elex",
+  "license": "Elex",
+  "publishConfig": {
+    "registry": "https://repository.elex-project.com/repository/npm-personal/"
+  }
+}

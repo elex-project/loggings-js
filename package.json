@@ -1,10 +1,12 @@
 {
   "name": "@elex/loggings",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "Loggings",
-  "main": "loggings.js",
+  "main": "./src/loggings.js",
+  "module": "./src/loggings.js",
   "scripts": {
-    "test": "node loggings-test.js"
+    "test": "node ./src/loggings-test.js",
+    "publish": "npm publish"
   },
   "keywords": [
     "loggings"

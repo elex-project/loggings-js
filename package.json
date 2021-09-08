@@ -5,8 +5,7 @@
   "main": "./src/loggings.js",
   "module": "./src/loggings.js",
   "scripts": {
-    "test": "node ./src/loggings-test.js",
-    "publish": "yarn publish"
+    "test": "node ./src/loggings-test.js"
   },
   "keywords": [
     "loggings"

@@ -1,18 +1,18 @@
 {
-  "name": "@elex/loggings",
+  "name": "@elex-project/loggings",
   "version": "0.0.5",
   "description": "Loggings",
   "main": "./src/loggings.js",
   "module": "./src/loggings.js",
   "scripts": {
     "test": "node ./src/loggings-test.js",
-    "publish": "npm publish"
+    "publish": "yarn publish"
   },
   "keywords": [
     "loggings"
   ],
   "author": "Elex",
-  "license": "Elex",
+  "license": "MIT",
   "publishConfig": {
     "registry": "https://repository.elex-project.com/repository/npm-personal/"
   }
